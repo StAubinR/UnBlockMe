@@ -1,6 +1,8 @@
 # UnBlockMe
 UnBlockMe Webpage to help, solve, validate, edit, play, create, save and load UnBlockMe Game.
 
+You can try it here: https://staubinr.github.io/UnBlockMe/UnblockMe.html
+
 This is just one html page under 1000 lines with javascript to test algorithms to solve UnBlockMe puzzles.  I tried to keep things as simple as possible without any fancy javascript stuff.  I focus on algorthms that persons can use to solve puzzles.  If anybody has more fun coding a Puzzle than to solve one, let me know.
 
 This program has the following options:
